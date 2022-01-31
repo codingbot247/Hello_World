@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning MERN and C++
 
-- 👯 I’m trying to create something that leaves it's imprint on our society.
+- 👯 I’m trying to find solutions for the current world problems that the youth face.
 - 💬 Talk to me about C++, Games, UI/UX, JavaScript, Open Source, Web-Development, Cryptocurrencies and Algorithms. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
