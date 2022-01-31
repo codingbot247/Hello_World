@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbot247" alt="codingbot247" /> </p>
 
 <p align="center">
-<br><img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="350px"><br><br>
+<br><img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300px"><br><br>
 </p>
 
 <h2 align="center"> 👋, I am Aditya Ojha 👨‍💻</h2> 
