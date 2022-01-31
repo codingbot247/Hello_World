@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning MERN and C++
 
-- 👯 I’m looking to create someting that leaves it's imprint in our society 
+- 👯 I’m trying to create someting that leaves it's imprint in our society 
 - 💬 Talk to me about C++, Games, UI/UX, JavaScript, Open Source, Web-Development, Cryptocurrencies and Algorithms. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -40,4 +40,4 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaslittlemind&show_icons=true&theme=radical)
+![codingbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbot247&show_icons=true&theme=radical)
