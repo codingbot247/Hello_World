@@ -16,12 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my Personal Portfolio Website and a couple other projects.  
+- 🔭 I’m currently working on my Personal Portfolio Website and a couple other WEB3 projects. 
 
-- 🌱 I’m currently learning MERN and C++
+- 🌱 I’m also learning Data structures and alogorithms in C++
 
-- 👯 I’m trying to find solutions for the current world problems that the youth face.
-- 💬 Talk to me about C++, Games, UI/UX, JavaScript, Open Source, Web-Development, Cryptocurrencies and Algorithms. 
+- 👯 I’m trying to find solutions for the current world problems with the help of Blockchain technology. 
+
+- 💬 Talk to me about C++, Games, UI/UX, JavaScript, Open Source, Web-Development, Cryptocurrencies and Algorithms, APIs and Chess. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
